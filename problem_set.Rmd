@@ -1,8 +1,0 @@
-# Problem Set for COR-1009
-
-1. `numpy`
-    1. random number generation from uniform, gaussian, poisson distribution
-    1. array matrix, define two and compute addition. Compare it with your own function.
-    1. define two vectors (a matrix with with column dimension 1), add them, compare it with your own function
-    1. d
-1. 
