@@ -16,9 +16,10 @@
     1. define two vectors (a matrix with with column dimension 1), add them, compare it with your own function
     1. tensor - scalar multiplication
     1. dot/inner product = contraction 
-    1. Cholesky decomposition of a positive definite matrix
-    1. LU decomposition with `numpy`
-    1. Solving $A x = b$ given $A$ and $x$
+    1. Solving $A x = b$ given $A$ and $x$ (Linear Regression)
+        1. Cholesky decomposition of a positive definite matrix
+        1. LU decomposition with `numpy`
+        1. SVD
 
 1. probability & statistics with `numpy` and `scipy`
 
@@ -40,3 +41,13 @@
     1. visit https://www.pygame.org/
     1. install `pygame` and play `aliens`, how many points can you acieve?
     1. http://programarcadegames.com/index.php
+
+## References
+*  Learning Python Basics
+    1. w3schools.com
+    2. docs.python.org
+* Data Science with Python
+    1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* Mathematics
+    1. [Mathematics for Machine Learning](https://mml-book.github.io/)
+    1. [Introductin to Applied Linear Algebra](http://vmls-book.stanford.edu/)
