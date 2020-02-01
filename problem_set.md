@@ -4,6 +4,9 @@
     - list, tuple, dict, set, int, float, string, chr, class
     - mutable or immutable
     
+1. data visualization
+    - follow the kaggle data visualization course: [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+    
 1. drawing graphs with `matplotlib`
     1. `sigmoid`
     1. `sin`/`cos` function
