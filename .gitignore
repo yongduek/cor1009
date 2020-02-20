@@ -1,1 +1,3 @@
-.vscode/settings.json
+.vscode/*
+.ipynb_checkpoints/*
+pgzero/.vscode/settings.json
