@@ -21,6 +21,7 @@
         - Linux OS is equipped with Python 3, so no install is required. If you want to try Linux in your desktop machine, install [Ubuntu 18.04](http://releases.ubuntu.com/18.04/). [64-bit PC (AMD64) desktop image](http://releases.ubuntu.com/18.04/ubuntu-18.04.4-desktop-amd64.iso) is the installation file for CD/DVD/USB installation.
             
         - For Windows 10 installation, don't forget to check both of the check buttons at the starting window of installation!
+        ![Click BOTH of the buttons](https://github.com/yongduek/cor1009/blob/master/etc/python-install.png)
         
         
     - [Program Arcade Games Chapter 1](http://programarcadegames.com/index.php?lang=en)
