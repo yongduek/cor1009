@@ -7,6 +7,9 @@
 - You can help your classmates. However, always be cautious not to deprive your classmates of the pleasure of learning computer language.
 - Cheating is never allowed. It will ruin your life eventually. 
 
+- [Questions can be posted here](https://github.com/yongduek/cor1009/issues), and anybody may provide answers.
+- Piazza
+
 1. Install Python 3.7 and Hello World
     - Goal: install and see what to do with Python
     - https://www.python.org/downloads/
