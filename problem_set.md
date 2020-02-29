@@ -48,9 +48,12 @@
 ## References
 *  Learning Python Basics
     1. w3schools.com
-    2. docs.python.org
+    1. docs.python.org
+    1. http://programarcadegames.com/index.php
+
 * Data Science with Python
     1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 * Mathematics
     1. [Mathematics for Machine Learning](https://mml-book.github.io/)
     1. [Introductin to Applied Linear Algebra](http://vmls-book.stanford.edu/)
