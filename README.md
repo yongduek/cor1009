@@ -17,8 +17,17 @@
         - It is better for you to have only version of python installed in your computer, if you are just a beginner.
         - [Any uestions can be posted here!](https://github.com/yongduek/cor1009/issues), but I recommend you to ask google first.
         - Just remember one thing if you are installing it in a Windows 10 machine:
-        
+
         ![Click BOTH of the buttons](https://github.com/yongduek/cor1009/blob/master/etc/python-install.png)
+
+    1. After installation, execute `Idle` as shown below in the image.
+
+        ![Run Idle](https://github.com/yongduek/cor1009/blob/master/etc/idle_run.png)
+
+    1. type `print("Hello GSK")` as shown below. If you see the same in your computer monitor, it is done.
+
+        ![Run Idle](https://github.com/yongduek/cor1009/blob/master/etc/idle_hello.png)
+
 
     1. Followings are optional for now. We will do it later.
         
