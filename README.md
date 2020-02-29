@@ -1,4 +1,4 @@
-# cor1009
+# GKS COR-1009
 
 - Every submission should be a python source code or in an electronic form of '.pdf'. Convert your document to Adobe pdf, which is just a simple process.
     - Warning: Don't ever try to buy a pdf writer from Adobe in order to perform pdf conversion of your document, unless you are really happy to spend the money to do many other things let alone preparing homework submissions for this course.
